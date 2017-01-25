@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/B1anker/musicbox#readme",
   "dependencies": {
-    "koa": "^1.2.4"
+    "koa": "^2.0.0-alpha.7"
   }
 }
